@@ -12,8 +12,8 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 15 Feb 2017 21:30:03 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Wed, 12 Apr 2017 05:59:35 +0000</lastBuildDate>
+	<language>lt</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.6.4</generator>
@@ -23,7 +23,7 @@
 		<comments>/2017/02/14/hello-world/#comments</comments>
 		<pubDate>Tue, 14 Feb 2017 16:39:51 +0000</pubDate>
 		<dc:creator><![CDATA[nutrukusistyga]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Uncategorized @lt]]></category>
 
 		<guid isPermaLink="false">/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
